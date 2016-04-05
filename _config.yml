@@ -1,6 +1,6 @@
-name: PropTech Asia
+name: PropTechAsia
 favicon: null
-layout_spectrum: 0.49175
+layout_spectrum: 0.75011
 typography_spectrum: 0.3034697128459811
 title: PropTech and RETech Asia-Pacific News
 cta:
@@ -24,6 +24,6 @@ color:
     - '#253237'
   brandStrength: 0.6018820761237293
   lightness: 0.7576791851315647
-  saturation: 0.048907744232565165
+  saturation: 0.5
   rhythmicContrast: 0.955133905634284
 purpose: []
