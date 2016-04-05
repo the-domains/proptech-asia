@@ -1,0 +1,28 @@
+name: PropTech Asia
+favicon: null
+layout_spectrum: 0.3472172108013183
+typography_spectrum: 0.3034697128459811
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6018820761237293
+  lightness: 0.7576791851315647
+  saturation: 0.048907744232565165
+  rhythmicContrast: 0.955133905634284
+purpose: []
